@@ -1,0 +1,43 @@
+#cont {
+    border: solid 1px lightgray;
+}
+ #cont *{
+    margin:0;
+ }
+
+#ccrow {
+    background-color: grey;
+    width:245px; 
+    border-radius: 10px;
+
+}
+img {
+    background-color: white;
+}
+#state{
+    border-color: lightgray;
+    width: 100%;
+    height: 50%;
+    border-radius:10px;
+}
+#notes{
+    border-radius: 10px;
+    border-color: lightgrey;
+}
+#footer{
+    margin: 0px;
+    border-top: lightgray solid 2px;
+    background-color: rgb(238, 237, 237);
+}
+
+#header {
+    margin:0;
+    background-color:  rgb(238, 237, 237);
+    border-bottom: lightgray 1px solid;
+}
+
+
+#shift {
+    margin:0px;
+    padding:0px;
+}
